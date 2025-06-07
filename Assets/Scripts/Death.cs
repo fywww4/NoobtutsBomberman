@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Worm : MonoBehaviour
+public class Death : MonoBehaviour
 {
     public float speed = 2;
     Vector2 randDir()
@@ -28,7 +28,7 @@ public class Worm : MonoBehaviour
             GetComponent<Rigidbody2D>().velocity = dir * speed;
             transform.position = new Vector3(Mathf.Round(transform.position.x),
                                              Mathf.Round(transform.position.y), 0);
-            GetComponent<Animator>().SetInteger("X", (int)dir.x);   
+            GetComponent<Animator>().SetInteger("X", (int)dir.x);
             GetComponent<Animator>().SetInteger("Y", (int)dir.y);
         }
     }

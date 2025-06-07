@@ -27,7 +27,7 @@ public class EnemyManager : MonoBehaviour
         // 如果都被打光（也就是陣列裡沒有東西了）
         if (enemies.Length == 0)
         {
-            exitZone.SetActive(true); // 開門或讓門出現
+            exitZone.SetActive(true); // 開門或讓門出現    
         }
     }
 }
