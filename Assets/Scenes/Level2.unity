@@ -237,7 +237,7 @@ GameObject:
   - component: {fileID: 43449810}
   m_Layer: 0
   m_Name: Death (2)
-  m_TagString: Untagged
+  m_TagString: Worm
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -431,7 +431,7 @@ GameObject:
   - component: {fileID: 43621270}
   m_Layer: 0
   m_Name: Death (6)
-  m_TagString: Untagged
+  m_TagString: Worm
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3025,7 +3025,7 @@ GameObject:
   - component: {fileID: 725036657}
   m_Layer: 0
   m_Name: Death (4)
-  m_TagString: Untagged
+  m_TagString: Worm
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3728,7 +3728,7 @@ GameObject:
   - component: {fileID: 787031179}
   m_Layer: 0
   m_Name: Death (7)
-  m_TagString: Untagged
+  m_TagString: Worm
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4793,7 +4793,7 @@ GameObject:
   - component: {fileID: 1063274664}
   m_Layer: 0
   m_Name: Death
-  m_TagString: Untagged
+  m_TagString: Worm
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6112,7 +6112,7 @@ GameObject:
   - component: {fileID: 1285397230}
   m_Layer: 0
   m_Name: Death (3)
-  m_TagString: Untagged
+  m_TagString: Worm
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6876,7 +6876,7 @@ GameObject:
   - component: {fileID: 1422749132}
   m_Layer: 0
   m_Name: Death (1)
-  m_TagString: Untagged
+  m_TagString: Worm
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9307,7 +9307,7 @@ GameObject:
   - component: {fileID: 1873225031}
   m_Layer: 0
   m_Name: Death (5)
-  m_TagString: Untagged
+  m_TagString: Worm
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
